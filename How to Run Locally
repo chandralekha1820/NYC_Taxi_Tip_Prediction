@@ -1,0 +1,14 @@
+1. Clone the repository
+git clone https://github.com/username/NYC_Taxi_Tip_Prediction.git
+cd NYC_Taxi_Tip_Prediction
+
+2. Create a virtual environment (optional but recommended)
+python -m venv .venv
+source .venv/bin/activate   # For Linux/Mac
+.venv\Scripts\activate      # For Windows
+
+3. Install dependencies
+pip install -r requirements.txt
+
+4. Launch Jupyter Notebook
+jupyter notebook DS_Final_Project_Fall_2024__testing.ipynb
