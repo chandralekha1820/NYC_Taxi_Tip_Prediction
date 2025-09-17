@@ -118,7 +118,7 @@ NYC_Taxi_Tip_Prediction/
 │── README.md                                       # Project documentation
 │── requirements.txt                                # Dependencies
 │── .gitignore                                      # Ignore unnecessary files
-│── LICENSE                                         # Open-source license
+
 ```
 ---
 
